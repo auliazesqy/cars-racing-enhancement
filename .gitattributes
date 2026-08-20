@@ -1,0 +1,10 @@
+*.min.js linguist-generated
+
+*.yml linguist-detectable=false   
+src/*.ts linguist-detectable
+docs/*.html linguist-vendored
+
+docs/**/*.html linguist-vendored
+vendor/* linguist-vendored
+*.json linguist-detectable=false
+# eof c6fb1efa
